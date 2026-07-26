@@ -25,6 +25,6 @@ Download the installation file .apk for Android AND the included instruction man
 💬 Support & Community
 If you have any technical questions, want to report a bug, or need help with the configuration, join the community or watch the official guide: 
 
-YouTube (Video Demonstration): [https://youtube.com/@yorka0?si=bBtWCNOT0C1sZHmE]   
-  
+YouTube (Video Demonstration): [https://youtube.com/@yorka0?si=bBtWCNOT0C1sZHmE]
+
 Disclaimer: Unlocking your e-bike's speed limit may void your warranty and may be illegal for public road use in certain countries (e.g., EU regulations). Use at your own risk. 
